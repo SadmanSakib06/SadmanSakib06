@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Student.<br>🌱 I’m currently learning Web Development.<br>🤝 I’m looking for help with UI/UX Design.<br>💬 Ask me about anything related to Tech.<br>⚡ Fun fact: I love Dogs.
+🔭 I’m a Student.<br>🌱 I’m currently learning Web Development.<br>🤝 I’m looking for help with UI/UX Design.<br>💬 Ask me about anything related to Tech.<br>⚡ Fun fact: I love Dogs.
 
 
 ## 🌐 Socials:
