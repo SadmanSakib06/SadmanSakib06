@@ -1,17 +1,8 @@
-## 🌟 Dynamic Text
+# Hi there 👋 I'm Sadman Sakib, UX Designer
 
-![Hey there 👋 I'm Sadman Sakib, UX Designer](https://link-to-your-gif1.gif)
-![Welcome to my GitHub profile!](https://link-to-your-gif2.gif)
-![I specialize in Figma and React](https://link-to-your-gif3.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Sadman+Sakib%2C+UX+Designer;%F0%9F%94%A5+A+passionate+UX+Designer+from+Bangladesh;%F0%9F%92%BB+The+tech+stack+I+use+is+Figma%2C+React)](https://git.io/typing-svg)
 
----
-## 🌟 Dynamic Text (Changing Colors)
-
-Here’s my changing text with vibrant colors:
-
-### <span style="color:#FF6347">Hey there 👋 I'm Sadman Sakib, UX Designer</span>  
-### <span style="color:#4682B4">Welcome to my GitHub profile!</span>  
-### <span style="color:#32CD32">I specialize in **Figma** and **React**</span>
+Welcome to my **GitHub profile**! I'm a **UX Designer** with **2 years of experience**, passionate about creating engaging, user-friendly digital experiences. I specialize in **Figma** and **React** and am always looking for opportunities to innovate and improve.
 
 ---
 
