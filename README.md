@@ -1,6 +1,8 @@
-# Hey there 👋 I'm Sadman Sakib, UX Designer
+## 🌟 Dynamic Text
 
-Welcome to my **GitHub profile**! I'm a **UX Designer** with **2 years of experience**, passionate about creating engaging, user-friendly digital experiences. I specialize in **Figma** and **React** and am always looking for opportunities to innovate and improve.
+![Hey there 👋 I'm Sadman Sakib, UX Designer](https://link-to-your-gif1.gif)
+![Welcome to my GitHub profile!](https://link-to-your-gif2.gif)
+![I specialize in Figma and React](https://link-to-your-gif3.gif)
 
 ---
 
