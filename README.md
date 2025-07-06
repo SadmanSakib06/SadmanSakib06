@@ -40,7 +40,7 @@ I work with a wide range of technologies and tools, including:
 
 ## 📈 GitHub Stats
 
-![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&bg_color=ffffff00&title_color=333333&icon_color=61DAFB&border_radius=10&hide_border=true)
 
 ---
 
@@ -57,3 +57,14 @@ _This simple reminder fuels my passion for creating meaningful, user-centered de
 - **Portfolio**: <a href="https://sadmansakib.net" target="_blank">My Website</a>
 
 Thanks for visiting! Let's connect and collaborate on exciting projects. 😄
+
+---
+
+### More Styling & Animations to Add:
+1. **Hover Effects** on Links and Badges:
+   ```css
+   a:hover {
+     text-decoration: underline;
+     color: #61DAFB;
+     transition: all 0.3s ease;
+   }
