@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Sadman Sakib, UX Designer
+# Hey there! I'm Sadman Sakib, UX Designer
 
-Welcome to my GitHub profile! I'm a **UX Designer** with **2 years of experience**, passionate about creating engaging, user-friendly digital experiences. I specialize in **Figma** and **React** and am always looking for opportunities to innovate and improve.
+Welcome to my **GitHub profile**! I'm a **UX Designer** with **2 years of experience**, passionate about creating engaging, user-friendly digital experiences. I specialize in **Figma** and **React** and am always looking for opportunities to innovate and improve.
 
 ---
 
@@ -21,6 +21,8 @@ A sleek, responsive dashboard for managing research data and collaborating with 
 
 ## 🔧 Technologies & Tools
 
+**Skills I work with:**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -33,6 +35,7 @@ I work with a wide range of technologies and tools, including:
 ---
 
 ## 🌱 Currently Learning
+
 - **Machine Learning** & **AI for UX Design**
 - **Advanced Python** for web automation and scripting.
 
@@ -52,8 +55,9 @@ _This simple reminder fuels my passion for creating meaningful, user-centered de
 ---
 
 ## 📫 How to reach me:
-- **LinkedIn**: <a href="https://www.linkedin.com/in/sadmansakib006/" target="_blank">My Profile</a>
-- **Email**: [Reach Me](https://mail.google.com/mail/?view=cm&fs=1&to=sakibayon11@gmail.com) 
-- **Portfolio**: <a href="https://sadmansakib.net" target="_blank">My Website</a>
+
+- **LinkedIn**: <a href="https://www.linkedin.com/in/sadmansakib006/" target="_blank" style="color:#61DAFB;">My Profile</a>
+- **Email**: <a href="mailto:sakibayon11@gmail.com" style="color:#F24E1E;">Reach Me</a>
+- **Portfolio**: <a href="https://sadmansakib.net" target="_blank" style="color:#181717;">My Website</a>
 
 Thanks for visiting! Let's connect and collaborate on exciting projects. 😄
