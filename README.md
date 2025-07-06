@@ -1,4 +1,4 @@
-# Hey there! I'm Sadman Sakib, UX Designer
+# Hey there 👋 I'm Sadman Sakib, UX Designer
 
 Welcome to my **GitHub profile**! I'm a **UX Designer** with **2 years of experience**, passionate about creating engaging, user-friendly digital experiences. I specialize in **Figma** and **React** and am always looking for opportunities to innovate and improve.
 
@@ -55,9 +55,8 @@ _This simple reminder fuels my passion for creating meaningful, user-centered de
 ---
 
 ## 📫 How to reach me:
-
-- **LinkedIn**: <a href="https://www.linkedin.com/in/sadmansakib006/" target="_blank" style="color:#61DAFB;">My Profile</a>
-- **Email**: <a href="mailto:sakibayon11@gmail.com" style="color:#F24E1E;">Reach Me</a>
-- **Portfolio**: <a href="https://sadmansakib.net" target="_blank" style="color:#181717;">My Website</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/sadmansakib006/" target="_blank">My Profile</a>
+- **Email**: [sakibayon11@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sakibayon11@gmail.com) 
+- **Portfolio**: <a href="https://sadmansakib.net" target="_blank">My Website</a>
 
 Thanks for visiting! Let's connect and collaborate on exciting projects. 😄
