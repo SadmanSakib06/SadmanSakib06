@@ -5,6 +5,15 @@
 ![I specialize in Figma and React](https://link-to-your-gif3.gif)
 
 ---
+## 🌟 Dynamic Text (Changing Colors)
+
+Here’s my changing text with vibrant colors:
+
+### <span style="color:#FF6347">Hey there 👋 I'm Sadman Sakib, UX Designer</span>  
+### <span style="color:#4682B4">Welcome to my GitHub profile!</span>  
+### <span style="color:#32CD32">I specialize in **Figma** and **React**</span>
+
+---
 
 ## 🌟 Featured Projects
 
