@@ -53,18 +53,7 @@ _This simple reminder fuels my passion for creating meaningful, user-centered de
 
 ## 📫 How to reach me:
 - **LinkedIn**: <a href="https://www.linkedin.com/in/sadmansakib006/" target="_blank">My Profile</a>
-- **Email**: <a href="mailto:sakibayon11@gmail.com" target="_blank">sakibayon11@gmail.com</a>
+- **Email**: [Reach Me](https://mail.google.com/mail/?view=cm&fs=1&to=sakibayon11@gmail.com) 
 - **Portfolio**: <a href="https://sadmansakib.net" target="_blank">My Website</a>
 
 Thanks for visiting! Let's connect and collaborate on exciting projects. 😄
-
----
-
-### More Styling & Animations to Add:
-1. **Hover Effects** on Links and Badges:
-   ```css
-   a:hover {
-     text-decoration: underline;
-     color: #61DAFB;
-     transition: all 0.3s ease;
-   }
