@@ -52,8 +52,8 @@ _This simple reminder fuels my passion for creating meaningful, user-centered de
 ---
 
 ## 📫 How to reach me:
-- **LinkedIn**: [My Profile](https://www.linkedin.com/in/sadmansakib006/)
-- **Email**: [Email Me](mailto:sakibayon11@gmail.com)
-- **Portfolio**: [My Website](https://sadmansakib.net)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/sadmansakib006/" target="_blank">My Profile</a>
+- **Email**: <a href="mailto:sakibayon11@gmail.com" target="_blank">sakibayon11@gmail.com</a>
+- **Portfolio**: <a href="https://sadmansakib.net" target="_blank">My Website</a>
 
 Thanks for visiting! Let's connect and collaborate on exciting projects. 😄
