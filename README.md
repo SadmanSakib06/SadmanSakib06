@@ -46,27 +46,12 @@ I work with a wide range of technologies and tools, including:
 ![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&bg_color=ffffff00&title_color=333333&icon_color=61DAFB&border_radius=10&hide_border=true)
 
 ---
-<h3 align="left">📝 Contributions Game:</h3>
-<img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">🏆 Recent Achievement</h3>
-
-<p align="center">
-  <figure>
-    <img src="https://raw.githubusercontent.com/mdsajjadhossain25/mdsajjadhossain25/main/480227111_1032841538890439_247474762588192678_n.jpg" height="450" />
-    <figcaption align="center"><strong>Second Runner-Up</strong> – WebXtreme Hackathon 2025 🎉</figcaption>
-  </figure>
-</p>
-
-
 
 <h3 align="left">✅ Stat:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=mdsajjadhossain25&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdsajjadhossain25&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajjadhossain25&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadmansakib06&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌍 Quote
 
