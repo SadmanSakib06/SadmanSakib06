@@ -45,7 +45,7 @@ I work with a wide range of technologies and tools, including:
 
 ![](https://github-readme-stats.vercel.app/api?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadmansakib06&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🌍 Quote
 
