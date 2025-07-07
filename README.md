@@ -43,12 +43,6 @@ I work with a wide range of technologies and tools, including:
 
 ## 📈 GitHub Stats
 
-![Sadman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&bg_color=ffffff00&title_color=333333&icon_color=61DAFB&border_radius=10&hide_border=true)
-
----
-
-## 📈 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadmansakib06&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
