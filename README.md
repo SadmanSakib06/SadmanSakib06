@@ -43,11 +43,7 @@ I work with a wide range of technologies and tools, including:
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sadmansakib06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadmansakib06&theme=nightowl&hide_border=false)<br/>
-
-## 📈 GitHub Stats (NEW)
-<img src="https://github-readme-stats.vercel.app/api?username=sadmansakib06&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="500"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=sadmansakib06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=prs" width="500"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadmansakib06&theme=radical&hide_border=false" width="500"/><br/>
 
 
