@@ -36,16 +36,14 @@ A sleek, responsive dashboard for managing research data and collaborating with 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=opencv&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 I work with a wide range of technologies and tools, including:
-- **Frontend**: React, HTML, CSS
+- **Frontend**: React, HTML, CSS, JavaScript
 - **Design**: Figma, Webflow, Framer
+- **Machine Learning & Deep Learning**: Python, PyTorch, YOLOv8, OpenCV, Computer Vision
 - **Tools**: Git, GitHub, VS Code
 
 ---
