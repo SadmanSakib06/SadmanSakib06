@@ -6,9 +6,9 @@ Welcome to my **GitHub profile**! I'm a **UX Designer** with **2 years of experi
 
 ## 🚀 What I Do
 
--> UX Design: Crafting intuitive interfaces and seamless user experiences
--> Frontend Development: Building interactive applications with React
--> Machine Learning & Deep Learning: Actively exploring ML/DL applications, with hands-on experience in YOLO object detection models and computer vision projects
+# -> UX Design: Crafting intuitive interfaces and seamless user experiences
+# -> Frontend Development: Building interactive applications with React
+# -> Machine Learning & Deep Learning: Actively exploring ML/DL applications, with hands-on experience in YOLO object detection models and computer vision projects
 
 I'm genuinely interested in bridging the gap between design and AI, exploring how machine learning can enhance user experiences and create intelligent, adaptive interfaces.
 
