@@ -21,8 +21,8 @@ Here are some of my top projects, showcasing my design skills and development wo
 ### 1. [**My Contest Winnings**](https://www.behance.net/gallery/219045141/My-Contest-Winnings)
 A detailed look at my award-winning designs from various competitions.
 
-### 2. [**WireSnap Homepage Design**](https://www.behance.net/gallery/228114099/WireSnap-Homepage-Design)
-A modern, dynamic homepage design for a cutting-edge web platform.
+### 2. [**HandRaise Detection System**](https://github.com/SadmanSakib06/Finetuning-YOLOv8-For-Handraise-Detection)
+Custom fine-tuned YOLOv8 model for real-time hand detection
 
 ### 3. [**Research Mate Dashboard**](https://github.com/SadmanSakib06/Research-Mate-Dashboard)
 A sleek, responsive dashboard for managing research data and collaborating with peers.
@@ -36,6 +36,12 @@ A sleek, responsive dashboard for managing research data and collaborating with 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=opencv&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 I work with a wide range of technologies and tools, including:
 - **Frontend**: React, HTML, CSS
