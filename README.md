@@ -1,9 +1,12 @@
 # 👋 Hello, I'm Sadman Sakib
 
 ### M.Sc. Student in Informatics @ Shizuoka University, Hamamatsu, Japan 🇯🇵
+
+<!-- 
 ### M.Sc. Student in Informatics
 
 🏫 **Shizuoka University**, Hamamatsu, Japan 🇯🇵
+-->
 
 > Exploring **Human-Centered AI** through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**. 
 
@@ -125,12 +128,12 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadmanSakib06&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=SadmanSakib06&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
 </p>
 
@@ -138,14 +141,11 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 
 I'm always happy to connect with fellow students, researchers, developers, and anyone interested in **Artificial Intelligence**, **Human-Agent Interaction**, and **Human-Centered Computing**.
 
-🌐 **Portfolio**  
-https://sadmansakib06.github.io/
+🌐 **Portfolio:** [Website](https://sadmansakib06.github.io/)
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/sadmansakib06/
+💼 **LinkedIn:** [Sadman Sakib](https://www.linkedin.com/in/sadmansakib06/)
 
-📧 **Email**  
-sakibayon11@gmail.com
+📧 **Email:** [sakibayon11@gmail.com](mailto:sakibayon11@gmail.com)
 
 ---
 
