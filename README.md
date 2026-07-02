@@ -1,6 +1,21 @@
-# Hey there 👋 I'm Sadman Sakib, UX Designer & ML Enthusiast
+<h1 align="center">Hi, I'm Sakib 👋</h1>
 
-Welcome to my **GitHub profile**! I'm a **UX Designer** with **2 years of experience**, passionate about creating engaging, user-friendly digital experiences. I specialize in **Figma** and **React** and am always looking for opportunities to innovate and improve.
+<h3 align="center">
+Incoming M.Sc. Student in Informatics @ Shizuoka University 🇯🇵
+</h3>
+
+<p align="center">
+Building <b>Human-Centered AI</b> through
+<b>Human-Agent Interaction</b>,
+<b>Machine Learning</b>, and
+<b>Intelligent Interfaces</b>.
+</p>
+
+<p align="center">
+
+🌏 Bangladesh • 🇯🇵 Japan (Oct 2026)
+
+</p>
 
 ---
 
