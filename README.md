@@ -1,46 +1,56 @@
 # 👋 Hello, I'm Sadman Sakib
 
-### Incoming M.Sc. Student in Informatics @ Shizuoka University 🇯🇵
+### M.Sc. Student in Informatics @ Shizuoka University 🇯🇵
 
-Building Human-Centered AI through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**.
+> Exploring **Human-Centered AI** through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**. 
+
+---
+
+## 🎓 Academic Journey
+
+🎓 **B.Sc. in Computer Science & Engineering**  
+University of Rajshahi
+
+📄 **First Research Paper**  
+Computer Vision & Distance Estimation *(Under Review)*
+
+🇯🇵 **M.Sc. in Informatics**  
+Shizuoka University
+
+🔬 **Human-Agent Interaction Lab**  
+Prof. Yoshimasa Ohmoto
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an incoming **Master's student in Informatics** at **Shizuoka University, Japan**, where I'll be joining **Prof. Yoshimasa Ohmoto's Human-Agent Interaction Lab**.
+I'm a **Master's student in Informatics** at **Shizuoka University, Japan**, conducting research in **Prof. Yoshimasa Ohmoto's Human-Agent Interaction Lab**.
 
-My interests lie at the intersection of **Artificial Intelligence**, **Human-Agent Interaction**, and **Machine Learning**. I'm particularly interested in designing intelligent systems that people can understand, trust, and naturally interact with.
+My research interests center on **Human-Agent Interaction**, **Human-Centered AI**, and **Machine Learning**, with a long-term goal of designing intelligent systems that people can understand, trust, and naturally collaborate with.
 
-Before beginning my Master's, my work focused on **Computer Vision**, **Explainable Machine Learning**, and AI-powered applications, including research on robust distance estimation under adverse weather conditions using YOLOv8.
+Prior to my Master's, I conducted research in **Computer Vision** and **Explainable Machine Learning**, developing AI-powered systems and investigating robust monocular distance estimation under adverse weather conditions using YOLOv8.
 
-I'm always excited to learn, build, and collaborate on projects that combine research with real-world impact.
-
-## 🌱 Current Journey
-
-- 🎓 Preparing to begin my Master's at **Shizuoka University** (October 2026)
-- 🔬 Exploring **Human-Agent Interaction** and **Human-Centered AI**
-- 🤖 Strengthening my foundations in **Machine Learning** and **Deep Learning**
-- 🇯🇵 Studying Japanese for academic life in Japan
-- 💡 Building AI-powered applications and research-oriented projects
+I'm passionate about bridging AI research with real-world applications that create meaningful and trustworthy experiences for people.
 
 ## 🔬 Research Interests
 
 - 🤝 Human-Agent Interaction (HAI)
 - 🧠 Human-Centered Artificial Intelligence
+- 💬 Intelligent Interactive Systems
+- 📊 Explainable & Trustworthy AI
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision
-- 📊 Explainable & Trustworthy AI
-- 💬 Intelligent Interactive Systems
 
 ## 🚀 Featured Projects
 
 ### 🇯🇵 Japanese Vocabulary Trainer
-> A modern web application designed to help learners master JLPT N5 vocabulary through interactive practice, audio pronunciation, and progress tracking.
 
-**Tech:** JavaScript • HTML • CSS
+Interactive web application designed to help learners master **JLPT N5 vocabulary** through pronunciation, quizzes, and progress tracking.
 
-🔗 Repository: https://github.com/SadmanSakib06/Japanese-Vocabolary-Trainer
+**Tech Stack:** `JavaScript` • `HTML` • `CSS`
+
+**Repository:**  
+🔗 https://github.com/SadmanSakib06/Japanese-Vocabolary-Trainer
 
 ---
 
