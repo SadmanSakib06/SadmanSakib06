@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Sadman Sakib
 
-### M.Sc. Student in Informatics @ Shizuoka University 🇯🇵
+### M.Sc. Student in Informatics @ Shizuoka University, Hamamatsu, Japan 🇯🇵
+### M.Sc. Student in Informatics
+
+🏫 **Shizuoka University**, Hamamatsu, Japan 🇯🇵
 
 > Exploring **Human-Centered AI** through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**. 
 
@@ -11,7 +14,7 @@
 🎓 **B.Sc. in Computer Science & Engineering**  
 University of Rajshahi
 
-📄 **First Research Paper**  
+📄 **Undergraduate Research**  
 Computer Vision & Distance Estimation *(Under Review)*
 
 🇯🇵 **M.Sc. in Informatics**  
@@ -32,6 +35,8 @@ Prior to my Master's, I conducted research in **Computer Vision** and **Explaina
 
 I'm passionate about bridging AI research with real-world applications that create meaningful and trustworthy experiences for people.
 
+---
+
 ## 🔬 Research Interests
 
 - 🤝 Human-Agent Interaction (HAI)
@@ -41,6 +46,8 @@ I'm passionate about bridging AI research with real-world applications that crea
 - 🤖 Machine Learning & Deep Learning
 - 👁️ Computer Vision
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🇯🇵 Japanese Vocabulary Trainer
@@ -49,93 +56,72 @@ Interactive web application designed to help learners master **JLPT N5 vocabular
 
 **Tech Stack:** `JavaScript` • `HTML` • `CSS`
 
-**Repository:**  
-🔗 https://github.com/SadmanSakib06/Japanese-Vocabolary-Trainer
+**Repository:** 🔗 [Japanese Vocabulary Trainer](https://github.com/SadmanSakib06/Japanese-Vocabolary-Trainer)
 
 ---
 
 ### 🤖 Baymax AI Personal Doctor
-> A multimodal AI assistant that organizes health records and provides AI-assisted health insights through an intuitive interface.
 
-**Tech:** Python • AI • Computer Vision
+Multimodal AI assistant that helps users organize health records and provides AI-assisted health insights through an intuitive interface.
 
-🔗 Repository: https://github.com/SadmanSakib06/Baymax-AI-Based-Personal-Doctor
+**Tech Stack:** `Python` • `Computer Vision` • `Artificial Intelligence`
+
+**Repository:** 🔗 [Baymax AI Personal Doctor](https://github.com/SadmanSakib06/Baymax-AI-Based-Personal-Doctor)
 
 ---
 
 ### 📊 Research Mate Dashboard
-> A dashboard built to simplify research workflows by organizing notes, experiments, and project information in one place.
 
-**Tech:** TypeScript • React
+Modern research management dashboard for organizing notes, experiments, and project workflows in a clean and intuitive interface.
 
-🔗 Repository: https://github.com/SadmanSakib06/Research-Mate-Dashboard
+**Tech Stack:** `TypeScript` • `React`
+
+**Repository:** 🔗 [Research Mate Dashboard](https://github.com/SadmanSakib06/Research-Mate-Dashboard)
 
 ---
 
 ### 👋 YOLOv8 Hand Raise Detection
-> A custom-trained YOLOv8 model capable of detecting hand-raise gestures and identifying individuals in real time.
 
-**Tech:** Python • YOLOv8 • OpenCV • PyTorch
+Computer vision project featuring a custom-trained **YOLOv8** model for real-time hand-raise detection and person identification.
 
-🔗 Repository: https://github.com/SadmanSakib06/Finetuning-YOLOv8-For-Handraise-Detection
+**Tech Stack:** `Python` • `YOLOv8` • `OpenCV` • `PyTorch`
+
+**Repository:** 🔗 [YOLOv8 Hand Raise Detection](https://github.com/SadmanSakib06/Finetuning-YOLOv8-For-Handraise-Detection)
+
+---
 
 ## 📄 Publications & Research
 
 ### YOLOv8-Based Real-Time Distance Estimation in Adverse Weather: Confidence Scores and Learned Heights
 
-**Status:** Under Review
+**Status:** *Under Review*
 
-This research explores robust monocular distance estimation in adverse weather conditions using **YOLOv8**, **LightGBM**, and **XGBoost**, with a focus on improving perception reliability through interpretable machine learning techniques.
+Research focused on robust **monocular distance estimation** in adverse weather conditions using **YOLOv8**, **LightGBM**, and **XGBoost**, with a focus on improving perception reliability through interpretable machine learning.
 
 **Research Areas**
 
-- Computer Vision
-- Distance Estimation
-- Explainable Machine Learning
-- Autonomous Driving
+`Computer Vision` • `Distance Estimation` • `Explainable AI` • `Autonomous Driving`
 
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- TypeScript
-- Java
-- Dart
-- C++
-
-### Artificial Intelligence & Data Science
-- PyTorch
-- OpenCV
-- YOLOv8
-- NumPy
-- Pandas
-- Scikit-learn
-- XGBoost
-- LightGBM
-
-### Web Development
-- React
-- HTML
-- CSS
-- Next.js
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Figma
-- Google Colab
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • JavaScript • TypeScript • Java • Dart • C++ |
+| **AI & Machine Learning** | PyTorch • OpenCV • YOLOv8 • NumPy • Pandas • Scikit-learn • XGBoost • LightGBM |
+| **Web Development** | React • Next.js • HTML • CSS |
+| **Tools** | Git • GitHub • VS Code • Figma • Google Colab |
 
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- 🤝 Human-Agent Interaction (HAI)
-- 🧠 Human-Centered AI
-- 🤖 Machine Learning & Deep Learning
-- 📖 Research Methodology & Scientific Writing
+- 📖 Human-Agent Interaction & Cognitive Science
+- 🧪 Experimental Design for HCI Research
+- 🤖 Applied Machine Learning
+- ✍️ Academic Writing & Research Methodology
 - 🇯🇵 Japanese Language (JLPT)
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -150,12 +136,18 @@ This research explores robust monocular distance estimation in adverse weather c
 
 ## 📫 Let's Connect
 
-I'm always happy to connect with fellow students, researchers, developers, and anyone passionate about Artificial Intelligence and Human-Centered Computing.
+I'm always happy to connect with fellow students, researchers, developers, and anyone interested in **Artificial Intelligence**, **Human-Agent Interaction**, and **Human-Centered Computing**.
 
-- 🌐 **Portfolio:** https://sadmansakib.net
-- 💼 **LinkedIn:** https://linkedin.com/in/sadmansakib006
-- 📧 **Email:** sakibayon11@gmail.com
+🌐 **Portfolio**  
+https://sadmansakib06.github.io/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/sadmansakib06/
+
+📧 **Email**  
+sakibayon11@gmail.com
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or simply have a chat about AI, research, or technology.*
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on research, discuss AI, or simply connect.
+
