@@ -6,7 +6,7 @@
 
 ### M.Sc. Student in Informatics
 
-🏫 **Shizuoka University**, Hamamatsu, Japan 🇯🇵
+📍 **Shizuoka University**, Hamamatsu, Japan 🇯🇵
 
 
 > Exploring **Human-Centered AI** through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**. 
@@ -15,7 +15,7 @@
 
 ## 🎓 Academic Journey
 
-🎓 **B.Sc. in Computer Science & Engineering**  
+🏫 **B.Sc. in Computer Science & Engineering**  
 University of Rajshahi
 
 📄 **Undergraduate Research**  
@@ -127,21 +127,10 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadmanSakib06&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=SadmanSakib06&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadmanSakib06&theme=github_dark" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadmanSakib06&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -151,22 +140,6 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadmanSakib06&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
-</p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadmanSakib06&theme=github-dark&hide_border=true" />
 </p>
 
 ## 📫 Let's Connect
@@ -181,5 +154,5 @@ I'm always happy to connect with fellow students, researchers, developers, and a
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on research, discuss AI, or simply connect.
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on research, discuss AI, or simply connect.*
 
