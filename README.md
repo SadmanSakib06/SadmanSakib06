@@ -1,12 +1,13 @@
 # 👋 Hello, I'm Sadman Sakib
 
-### M.Sc. Student in Informatics @ Shizuoka University, Hamamatsu, Japan 🇯🇵
-
 <!-- 
+### M.Sc. Student in Informatics @ Shizuoka University, Hamamatsu, Japan 🇯🇵
+-->
+
 ### M.Sc. Student in Informatics
 
 🏫 **Shizuoka University**, Hamamatsu, Japan 🇯🇵
--->
+
 
 > Exploring **Human-Centered AI** through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**. 
 
@@ -135,6 +136,37 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadmanSakib06&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadmanSakib06&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadmanSakib06&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadmanSakib06&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadmanSakib06&theme=github-dark&hide_border=true" />
 </p>
 
 ## 📫 Let's Connect
