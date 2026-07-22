@@ -6,7 +6,7 @@
 
 ### M.Sc. Student in Informatics
 
-📍 **Shizuoka University**, Hamamatsu, Japan 🇯🇵
+📍 Shizuoka University, Hamamatsu, Japan 🇯🇵
 
 
 > Exploring **Human-Centered AI** through **Human-Agent Interaction**, **Machine Learning**, and **Intelligent Interfaces**. 
@@ -19,7 +19,7 @@
 University of Rajshahi
 
 📄 **Undergraduate Research**  
-Computer Vision & Distance Estimation *(Under Review)*
+Computer Vision & Monocular Distance Estimation
 
 🇯🇵 **M.Sc. in Informatics**  
 Shizuoka University
@@ -35,7 +35,7 @@ I'm a **Master's student in Informatics** at **Shizuoka University, Japan**, con
 
 My research interests center on **Human-Agent Interaction**, **Human-Centered AI**, and **Machine Learning**, with a long-term goal of designing intelligent systems that people can understand, trust, and naturally collaborate with.
 
-Prior to my Master's, I conducted research in **Computer Vision** and **Explainable Machine Learning**, developing AI-powered systems and investigating robust monocular distance estimation under adverse weather conditions using YOLOv8.
+Before beginning my Master's, I conducted undergraduate research in **Computer Vision** and **Explainable Machine Learning**, focusing on robust monocular distance estimation under adverse weather conditions using YOLOv8.
 
 I'm passionate about bridging AI research with real-world applications that create meaningful and trustworthy experiences for people.
 
@@ -43,20 +43,46 @@ I'm passionate about bridging AI research with real-world applications that crea
 
 ## 🔬 Research Interests
 
-- 🤝 Human-Agent Interaction (HAI)
-- 🧠 Human-Centered Artificial Intelligence
-- 💬 Intelligent Interactive Systems
+- 🤝 Human-Agent Interaction
+- 🧠 Human-Centered AI
 - 📊 Explainable & Trustworthy AI
-- 🤖 Machine Learning & Deep Learning
+- 🤖 Machine Learning 
 - 👁️ Computer Vision
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 Baymax AI Personal Doctor
+
+Multimodal AI assistant that helps users organize health records and provides AI-assisted health insights through an intuitive interface.
+
+**Tech Stack:** `Python` • `Computer Vision` • `Machine Learning`
+
+**Repository:** 🔗 [Baymax AI Personal Doctor](https://github.com/SadmanSakib06/Baymax-AI-Based-Personal-Doctor)
+
+---
+### 👋 YOLOv8 Hand Raise Detection
+
+Computer vision application featuring a custom-trained YOLOv8 model for real-time hand-raise detection and person identification.
+
+**Tech Stack:** `Python` • `YOLOv8` • `OpenCV` • `PyTorch`
+
+**Repository:** 🔗 [YOLOv8 Hand Raise Detection](https://github.com/SadmanSakib06/Finetuning-YOLOv8-For-Handraise-Detection)
+
+---
+### 📊 Research Mate Dashboard
+
+Modern research management dashboard for organizing literature, notes, experiments, and research workflows.
+
+**Tech Stack:** `TypeScript` • `React`
+
+**Repository:** 🔗 [Research Mate Dashboard](https://github.com/SadmanSakib06/Research-Mate-Dashboard)
+
+---
 ### 🇯🇵 Japanese Vocabulary Trainer
 
-Interactive web application designed to help learners master **JLPT N5 vocabulary** through pronunciation, quizzes, and progress tracking.
+Interactive web application for learning JLPT N5 vocabulary through pronunciation practice, quizzes, and progress tracking.
 
 **Tech Stack:** `JavaScript` • `HTML` • `CSS`
 
@@ -64,47 +90,41 @@ Interactive web application designed to help learners master **JLPT N5 vocabular
 
 ---
 
-### 🤖 Baymax AI Personal Doctor
-
-Multimodal AI assistant that helps users organize health records and provides AI-assisted health insights through an intuitive interface.
-
-**Tech Stack:** `Python` • `Computer Vision` • `Artificial Intelligence`
-
-**Repository:** 🔗 [Baymax AI Personal Doctor](https://github.com/SadmanSakib06/Baymax-AI-Based-Personal-Doctor)
-
----
-
-### 📊 Research Mate Dashboard
-
-Modern research management dashboard for organizing notes, experiments, and project workflows in a clean and intuitive interface.
-
-**Tech Stack:** `TypeScript` • `React`
-
-**Repository:** 🔗 [Research Mate Dashboard](https://github.com/SadmanSakib06/Research-Mate-Dashboard)
-
----
-
-### 👋 YOLOv8 Hand Raise Detection
-
-Computer vision project featuring a custom-trained **YOLOv8** model for real-time hand-raise detection and person identification.
-
-**Tech Stack:** `Python` • `YOLOv8` • `OpenCV` • `PyTorch`
-
-**Repository:** 🔗 [YOLOv8 Hand Raise Detection](https://github.com/SadmanSakib06/Finetuning-YOLOv8-For-Handraise-Detection)
-
----
-
 ## 📄 Publications & Research
 
-### YOLOv8-Based Real-Time Distance Estimation in Adverse Weather: Confidence Scores and Learned Heights
+### First-Author Research
 
-**Status:** *Under Review*
+#### YOLOv8-Based Real-Time Distance Estimation in Adverse Weather: Confidence Scores and Learned Heights
 
-Research focused on robust **monocular distance estimation** in adverse weather conditions using **YOLOv8**, **LightGBM**, and **XGBoost**, with a focus on improving perception reliability through interpretable machine learning.
+**Status:** *Under Review (Q1 Journal)*
 
-**Research Areas**
+Research on robust **monocular distance estimation** under adverse weather conditions using **YOLOv8**, **LightGBM**, and **XGBoost**, with a focus on improving perception reliability through interpretable machine learning.
 
-`Computer Vision` • `Distance Estimation` • `Explainable AI` • `Autonomous Driving`
+---
+
+### Co-Author Publications
+
+#### Evaluating a Scratch Trained BERT Model Across Sentiment Analysis, Semantic Similarity, and Question Answering
+
+**Status:** *Published (IEEE Conference)*
+
+Research exploring a scratch-trained **BERT** model across sentiment analysis, semantic similarity, and question answering.
+
+---
+
+#### Single-Cell Dropout Recovery via Dual-Decoder Graph Contrastive Representation Learning
+
+**Status:** *Accepted (IEEE SPICSCON 2026)*
+
+Research proposing a graph contrastive learning framework for recovering dropout events in single-cell RNA sequencing data.
+
+---
+
+#### ClassiDiff: A Score-Classifier Aligned Generative Augmentation Framework for Dermoscopic Skin Lesion Classification
+
+**Status:** *Accepted (IEEE SPICSCON 2026)*
+
+Research on diffusion-based generative data augmentation for improving dermoscopic skin lesion classification.
 
 
 ## 🛠️ Tech Stack
@@ -119,7 +139,7 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 
 ## 📚 Currently Exploring
 
-- 📖 Human-Agent Interaction & Cognitive Science
+- 📖 Human-Agent Interaction 
 - 🧪 Experimental Design for HCI Research
 - 🤖 Applied Machine Learning
 - ✍️ Academic Writing & Research Methodology
@@ -130,15 +150,6 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadmanSakib06&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadmanSakib06&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadmanSakib06&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=SadmanSakib06&theme=github-dark&hide_border=true" />
 </p>
 
@@ -147,6 +158,8 @@ Research focused on robust **monocular distance estimation** in adverse weather 
 I'm always happy to connect with fellow students, researchers, developers, and anyone interested in **Artificial Intelligence**, **Human-Agent Interaction**, and **Human-Centered Computing**.
 
 🌐 **Portfolio:** [Website](https://sadmansakib06.github.io/)
+
+🎓 **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=-vhWKGAAAAAJ&hl=en)
 
 💼 **LinkedIn:** [Sadman Sakib](https://www.linkedin.com/in/sadmansakib06/)
 
