@@ -110,6 +110,8 @@ Research on robust **monocular distance estimation** under adverse weather condi
 
 Research exploring a scratch-trained **BERT** model across sentiment analysis, semantic similarity, and question answering.
 
+**Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11545981)
+
 ---
 
 #### Single-Cell Dropout Recovery via Dual-Decoder Graph Contrastive Representation Learning
