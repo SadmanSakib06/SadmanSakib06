@@ -92,31 +92,31 @@ Interactive web application for learning JLPT N5 vocabulary through pronunciatio
 
 ## 📄 Publications & Research
 
-### First-Author Research
+### 🥇 First-Author Research
 
 #### YOLOv8-Based Real-Time Distance Estimation in Adverse Weather: Confidence Scores and Learned Heights
 
-**Status:** *Under Review (Q1 Journal)*
+📝 **Under Review** *(Q1 Journal)*
 
 Research on robust **monocular distance estimation** under adverse weather conditions using **YOLOv8**, **LightGBM**, and **XGBoost**, with a focus on improving perception reliability through interpretable machine learning.
 
 ---
 
-### Co-Author Publications
+### 🤝 Co-Author Publications
 
 #### Evaluating a Scratch Trained BERT Model Across Sentiment Analysis, Semantic Similarity, and Question Answering
 
-**Status:** *Published (IEEE Conference)*
+✅ **Published** *(IEEE Conference)*
 
 Research exploring a scratch-trained **BERT** model across sentiment analysis, semantic similarity, and question answering.
 
-**Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11545981)
+🔗 **Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11545981)
 
 ---
 
 #### Single-Cell Dropout Recovery via Dual-Decoder Graph Contrastive Representation Learning
 
-**Status:** *Accepted (IEEE SPICSCON 2026)*
+🎯 **Accepted** *(IEEE SPICSCON 2026)*
 
 Research proposing a graph contrastive learning framework for recovering dropout events in single-cell RNA sequencing data.
 
@@ -124,7 +124,7 @@ Research proposing a graph contrastive learning framework for recovering dropout
 
 #### ClassiDiff: A Score-Classifier Aligned Generative Augmentation Framework for Dermoscopic Skin Lesion Classification
 
-**Status:** *Accepted (IEEE SPICSCON 2026)*
+🎯 **Accepted** *(IEEE SPICSCON 2026)*
 
 Research on diffusion-based generative data augmentation for improving dermoscopic skin lesion classification.
 
