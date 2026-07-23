@@ -106,7 +106,7 @@ Research on robust **monocular distance estimation** under adverse weather condi
 
 #### Evaluating a Scratch Trained BERT Model Across Sentiment Analysis, Semantic Similarity, and Question Answering
 
-✅ **Published** *(IEEE Conference)*
+✅ **Published • April 2026** *(2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking – QPAIN 2026)*
 
 Research exploring a scratch-trained **BERT** model across sentiment analysis, semantic similarity, and question answering.
 
